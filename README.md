@@ -1,15 +1,15 @@
 # Javascript Basic
 
-## Lesson1: 
+## Bài 1: 
 Link: [Lesson 1](./Lesson1)
 
-- Variable
-- Data Type
-- Operator
+- Variable & Constant (Biến & Hằng)
+- Data Type (Kiểu dữ liệu)
+- Operator (Toán tử)
 
-## Lesson2:
+## Bài 2:
 Link: [Lesson 2](./Lesson2)
 
-- If Statement
-- Else Statement
-- Else If Statement
+- If Statement (Mệnh đề If)
+- Else Statement (Mệnh đề Else)
+- Else If Statement (Mệnh đề Else If)

@@ -1,10 +1,9 @@
 
 # Bài 2:
 
-## Câu điều kiện
+## Kiến Thức
 
-
-### if
+### Mệnh đề If
 Cấu trúc:
 ```
 if( <condition> ){
@@ -23,7 +22,7 @@ if( a > b ){
 ```
 
 
-### else (optional)
+### Mệnh đề Else
 Chỉ được sử dụng sau câu lệnh if
 
 Cấu trúc:
@@ -50,7 +49,7 @@ if( a > b ){
 ```
 
 
-### else if (optional)
+### Mệnh đề Else If
 Chỉ được sử dụng sau câu lệnh if và có thể trước câu lệnh else.
 
 Cấu trúc:
