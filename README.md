@@ -13,3 +13,9 @@ Link: [Lesson 2](./Lesson2)
 - If Statement (Mệnh đề If)
 - Else Statement (Mệnh đề Else)
 - Else If Statement (Mệnh đề Else If)
+
+## Bài 3:
+Link: [Lesson 3](./Lesson3)
+
+- Vòng lặp là gì?
+- Các loại vòng lặp
